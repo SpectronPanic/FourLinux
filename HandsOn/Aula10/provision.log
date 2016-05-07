@@ -1,0 +1,10 @@
+05/05/2016 - 21:14:28 - Iniciado criacao do container. 
+05/05/2016 - 21:14:29 - Cricao finalizada. 
+05/05/2016 - 21:14:29 - Executando comando apt-get update. 
+05/05/2016 - 21:14:41 - Comando finalizado. 
+05/05/2016 - 21:14:41 - Executando comando apt-get install apache2 -y. 
+05/05/2016 - 21:15:34 - Comando finalizado. 
+05/05/2016 - 21:15:34 - Executando comando service apache2 restart. 
+05/05/2016 - 21:15:36 - Comando finalizado. 
+05/05/2016 - 21:15:36 - Buscando container. 
+05/05/2016 - 21:15:36 - Busca finalizada. 

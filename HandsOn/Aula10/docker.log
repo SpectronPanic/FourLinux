@@ -1,0 +1,27 @@
+05/05/2016 - 21:24:25 - Iniciado criacao do container. 
+05/05/2016 - 21:24:26 - Cricao finalizada. 
+05/05/2016 - 21:24:26 - Executando comando apt-get update. 
+05/05/2016 - 21:25:39 - Comando finalizado. 
+05/05/2016 - 21:25:39 - Executando comando apt-get install apache2 -y. 
+05/05/2016 - 21:26:35 - Comando finalizado. 
+05/05/2016 - 21:26:35 - Executando comando service apache2 restart. 
+05/05/2016 - 21:26:37 - Comando finalizado. 
+05/05/2016 - 21:26:37 - Buscando container. 
+05/05/2016 - 21:26:37 - Busca finalizada. 
+05/05/2016 - 21:37:46 - Removendo container GGapachesv2. 
+05/05/2016 - 21:37:47 - Remocao finalizada. 
+05/05/2016 - 21:38:12 - Removendo container GGapache. 
+05/05/2016 - 21:38:13 - Remocao finalizada. 
+05/05/2016 - 21:40:12 - Iniciado criacao do container. 
+05/05/2016 - 21:40:12 - Cricao finalizada. 
+05/05/2016 - 21:40:13 - Executando comando apt-get update. 
+05/05/2016 - 21:40:26 - Iniciado criacao do container. 
+05/05/2016 - 21:40:27 - Cricao finalizada. 
+05/05/2016 - 21:40:28 - Executando comando apt-get update. 
+05/05/2016 - 21:40:58 - Comando finalizado. 
+05/05/2016 - 21:40:58 - Executando comando apt-get install apache2 -y. 
+05/05/2016 - 21:41:48 - Comando finalizado. 
+05/05/2016 - 21:41:48 - Executando comando service apache2 restart. 
+05/05/2016 - 21:41:50 - Comando finalizado. 
+05/05/2016 - 21:41:50 - Buscando container. 
+05/05/2016 - 21:41:50 - Busca finalizada. 
